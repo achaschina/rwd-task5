@@ -30,8 +30,14 @@ body {
     box-shadow: inset 0px 0px 2px 1px;
 }
 
-.button span {
-   color: #8f9190;
+.button::before {
+  content:  "\2605";
+  color:  #8f9190;
+}
+
+button::after {
+  content:  "\2605";
+  color:  #8f9190;
 }
 
 .icon:before {
