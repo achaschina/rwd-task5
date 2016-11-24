@@ -6,7 +6,7 @@
 .icon:before {
     content: "";
     display: block;
-    content: url("_twitter_logo_.png");
+    content: url("https://raw.githubusercontent.com/achaschina/rwd-task5/gh-pages/SubTask-2/_twitter_logo_.png");
     width: 100px;
     height: 20px;
     float: left;
